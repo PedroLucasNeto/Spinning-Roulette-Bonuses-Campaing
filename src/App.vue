@@ -214,7 +214,7 @@
     gap: 40px;
     align-items: center;
     justify-content: center;
-    background:
+    /* background:
       radial-gradient(
         ellipse at top left,
         rgba(125, 27, 76, 0.12) 0%,
@@ -225,7 +225,7 @@
         rgba(231, 201, 137, 0.25) 0%,
         transparent 55%
       ),
-      radial-gradient(ellipse at center, #ffffff 0%, #fdf4f8 100%);
+      radial-gradient(ellipse at center, #ffffff 0%, #fdf4f8 100%); */
     padding: 20px;
     box-sizing: border-box;
   }

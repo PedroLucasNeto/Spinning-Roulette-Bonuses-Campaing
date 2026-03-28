@@ -2,7 +2,7 @@
   <div class="page">
     <img src="./assets/IMG_4795.JPG.jpeg" class="logo" alt="Alana Retratos" />
     <div class="card">
-      <p class="subtitle">Gire a roleta e ganhe seu ensaio!</p>
+      <p class="subtitle">Gire a roleta para ganhar!</p>
 
       <div class="wheel-area">
         <div class="pointer"></div>
